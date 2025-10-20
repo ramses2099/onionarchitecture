@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "I:\\Sources\\CSharp\\onionarchitecture\\onionarchitecture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2FF96A-84B0-451A-918D-8833E620266A}|WebApi\\WebApi.csproj|i:\\sources\\csharp\\onionarchitecture\\onionarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2FF96A-84B0-451A-918D-8833E620266A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5F1360-DE5A-41DD-A8F3-66D4F44AAEE9}|Application\\Application.csproj|i:\\sources\\csharp\\onionarchitecture\\onionarchitecture\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5F1360-DE5A-41DD-A8F3-66D4F44AAEE9}|Application\\Application.csproj|solutionrelative:application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Sources\\CSharp\\onionarchitecture\\onionarchitecture\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "I:\\Sources\\CSharp\\onionarchitecture\\onionarchitecture\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:39:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "I:\\Sources\\CSharp\\onionarchitecture\\onionarchitecture\\Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceExtensions.cs",
+              "ToolTip": "I:\\Sources\\CSharp\\onionarchitecture\\onionarchitecture\\Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "Application\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:18:51.882Z",
+              "EditorCaption": ""
             }
           ]
         }
